@@ -38,9 +38,9 @@ redirect_from:
   - Funded research project on **Linear Regularization**  
 
 ## Work Experience  
-- **Press Team Volunteer** | 9th European Congress of Mathematics (July 2024)  
+- **Press Team Volunteer**  9th European Congress of Mathematics (July 2024)  
   - Wrote daily newsletters & translated interviews  
-- **Intern Student** | University of Seville’s Algebra Department (Nov 2022 - May 2023)  
+- **Intern Student**  University of Seville’s Algebra Department (Nov 2022 - May 2023)  
   - Researched **p-adic numbers** and **Ostrowski’s Theorem**  
 - **Personal Tutor** (2020-Present)  
   - Tutor for **university & IB students**  
@@ -55,22 +55,7 @@ redirect_from:
   - **English** (Proficiency - Cambridge & TOEFL iBT)  
   - **German** (Conversational - B1 Level)  
 
-## Publications  
-<ul>{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
-
-## Talks  
-<ul>{% for post in site.talks reversed %}
-  {% include archive-single-talk-cv.html %}
-{% endfor %}</ul>
-
-## Teaching  
-<ul>{% for post in site.teaching reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
-
 ## Service & Leadership  
-- Contributor at **9th European Congress of Mathematics**  
+- Student Volunteer at **9th European Congress of Mathematics**  
 - Active member of **math & data science communities**  
 
