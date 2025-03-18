@@ -1,12 +1,10 @@
 ---
 layout: single
-title: "Lecture Notes"
+title: "My Lecture Notes"
 permalink: /ln/
 sidebar:
   nav: "main"
 ---
-
-# Lecture Notes
 
 These are my personal notes and the resources I've used for some of the modules I took during my years at the  
 **University of Seville** and the **University of Warwick**.
