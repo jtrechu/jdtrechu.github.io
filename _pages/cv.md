@@ -9,56 +9,68 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education  
+- **BSc in Statistics** (Expected June 2025) - Universidad de Sevilla, Spain  
+  - GPA: 9.44/10  
+- **BSc in Mathematics** (Expected June 2025) - Universidad de Sevilla, Spain  
+  - GPA: 9.0/10  
+- **Erasmus+ Exchange Student** (2023-2024) - University of Warwick, UK  
+  - Achieved **First Class Honors**  
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Early Education  
+- **Colegio San Antonio María Claret** (Seville, Spain, 2014-2020)  
+  - Graduated **top of class** (150+ students)  
+  - Served as **student representative** on the School Council  
+- **Alpena High School** (Alpena, MI, USA, 2018-2019)  
+  - Fully funded by the **Amancio Ortega Foundation**  
+  - **Graduated Cum Laude**  
+  - 92nd percentile in **Math SATs**  
+  - Member of **FIRST Robotics** & **Science Olympiad**  
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Honors & Scholarships  
+- **Amancio Ortega’s Foundation Scholarship** (2019)  
+  - Awarded based on academic merit and character  
+- **Sputnik Scholarship** (2022)  
+  - Recognized for **entrepreneurship and innovation**  
+- **Santander Erasmus Scholarship** (2023)  
+  - Merit-based funding for **exchange students**  
+- **Spanish Ministry of Education Collaboration Scholarship** (2024-2025)  
+  - Funded research project on **Linear Regularization**  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Work Experience  
+- **Press Team Volunteer** | 9th European Congress of Mathematics (July 2024)  
+  - Wrote daily newsletters & translated interviews  
+- **Intern Student** | University of Seville’s Algebra Department (Nov 2022 - May 2023)  
+  - Researched **p-adic numbers** and **Ostrowski’s Theorem**  
+- **Personal Tutor** (2020-Present)  
+  - Tutor for **university & IB students**  
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Skills  
+- **Mathematics**: Probability, Stochastic Processes, Linear Regression, Regularization Techniques  
+- **Programming**:  
+  - **Advanced**: R, LaTeX, MySQL, MongoDB  
+  - **Intermediate**: Haskell, MATLAB, Lean, Python, AMPL  
+- **Languages**:  
+  - **Spanish** (Native)  
+  - **English** (Proficiency - Cambridge & TOEFL iBT)  
+  - **German** (Conversational - B1 Level)  
+
+## Publications  
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+## Talks  
+<ul>{% for post in site.talks reversed %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}</ul>
+
+## Teaching  
+<ul>{% for post in site.teaching reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+## Service & Leadership  
+- Contributor at **9th European Congress of Mathematics**  
+- Active member of **math & data science communities**  
+
