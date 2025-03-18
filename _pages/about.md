@@ -7,11 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-
-
-======
-
 **Welcome!**
+
 I am a mathematics undergraduate student with a strong interest in Probability and Statistics and Operations Research. 
 
 I am in the last semester of a double bachelor’s degree in Mathematics and Statistics at the University of Seville. My fourth year of the program was spent at the University of Warwick. Where I took several Masters' level courses on Probability and Statistics all of which I obtain First Class Honours in. My academic interests extend beyond statistical learning and Operations Research to include percolation theory, random graphs, and other areas of probability and discrete mathematics. I am always eager to explore new ideas and expand my knowledge in these domains.
