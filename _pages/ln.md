@@ -3,7 +3,7 @@ layout: single
 title: "My Lecture Notes"
 permalink: /ln/
 sidebar:
-  nav: "main"
+  nav: ""
 ---
 
 These are my personal notes and the resources I've used for some of the modules I took during my years at the  
