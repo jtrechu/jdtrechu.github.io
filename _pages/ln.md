@@ -6,8 +6,7 @@ sidebar:
   nav: ""
 ---
 
-These are my personal notes and the resources I've used for some of the modules I took during my years at the  
-**University of Seville** and the **University of Warwick**.
+These are my personal notes and the resources I've used for some of the modules I took during my years at the **University of Seville** and the **University of Warwick**, hence why some notes are in Spanish while others in English.
 
 I am deeply grateful to my professors for their insightful lectures, which have greatly contributed to my understanding of mathematics.  
 I hope that fellow undergraduate students in mathematics find these materials helpful in their studies.
